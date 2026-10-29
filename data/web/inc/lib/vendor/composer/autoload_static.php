@@ -25,11 +25,11 @@ class ComposerStaticInit873464e4bd965a3168f133248b1b218b
     );
 
     public static $prefixLengthsPsr4 = array (
-        'T' => 
+        'T' =>
         array (
             'Twig\\' => 5,
         ),
-        'S' => 
+        'S' =>
         array (
             'Symfony\\Polyfill\\Php81\\' => 23,
             'Symfony\\Polyfill\\Php80\\' => 23,
@@ -39,11 +39,11 @@ class ComposerStaticInit873464e4bd965a3168f133248b1b218b
             'Symfony\\Component\\Translation\\' => 30,
             'Stevenmaguire\\OAuth2\\Client\\' => 28,
         ),
-        'R' => 
+        'R' =>
         array (
             'RobThree\\Auth\\' => 14,
         ),
-        'P' => 
+        'P' =>
         array (
             'Psr\\SimpleCache\\' => 16,
             'Psr\\Log\\' => 8,
@@ -54,193 +54,188 @@ class ComposerStaticInit873464e4bd965a3168f133248b1b218b
             'PhpMimeMailParser\\' => 18,
             'PHPMailer\\PHPMailer\\' => 20,
         ),
-        'M' => 
+        'M' =>
         array (
             'MatthiasMullie\\PathConverter\\' => 29,
             'MatthiasMullie\\Minify\\' => 22,
         ),
-        'L' => 
+        'L' =>
         array (
             'League\\OAuth2\\Client\\' => 21,
             'LdapRecord\\' => 11,
         ),
-        'I' => 
+        'I' =>
         array (
             'Illuminate\\Support\\' => 19,
             'Illuminate\\Contracts\\' => 21,
         ),
-        'H' => 
+        'H' =>
         array (
             'Html2Text\\' => 10,
         ),
-        'G' => 
+        'G' =>
         array (
             'GuzzleHttp\\Psr7\\' => 16,
             'GuzzleHttp\\Promise\\' => 19,
             'GuzzleHttp\\' => 11,
         ),
-        'F' => 
+        'F' =>
         array (
             'Firebase\\JWT\\' => 13,
         ),
-        'D' => 
+        'D' =>
         array (
-            'Ddeboer\\Imap\\' => 13,
             'DASPRiD\\Enum\\' => 13,
         ),
-        'C' => 
+        'C' =>
         array (
             'Carbon\\Doctrine\\' => 16,
             'Carbon\\' => 7,
         ),
-        'B' => 
+        'B' =>
         array (
             'BaconQrCode\\' => 12,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Twig\\' => 
+        'Twig\\' =>
         array (
             0 => __DIR__ . '/..' . '/twig/twig/src',
         ),
-        'Symfony\\Polyfill\\Php81\\' => 
+        'Symfony\\Polyfill\\Php81\\' =>
         array (
             0 => __DIR__ . '/..' . '/symfony/polyfill-php81',
         ),
-        'Symfony\\Polyfill\\Php80\\' => 
+        'Symfony\\Polyfill\\Php80\\' =>
         array (
             0 => __DIR__ . '/..' . '/symfony/polyfill-php80',
         ),
-        'Symfony\\Polyfill\\Mbstring\\' => 
+        'Symfony\\Polyfill\\Mbstring\\' =>
         array (
             0 => __DIR__ . '/..' . '/symfony/polyfill-mbstring',
         ),
-        'Symfony\\Polyfill\\Ctype\\' => 
+        'Symfony\\Polyfill\\Ctype\\' =>
         array (
             0 => __DIR__ . '/..' . '/symfony/polyfill-ctype',
         ),
-        'Symfony\\Contracts\\Translation\\' => 
+        'Symfony\\Contracts\\Translation\\' =>
         array (
             0 => __DIR__ . '/..' . '/symfony/translation-contracts',
         ),
-        'Symfony\\Component\\Translation\\' => 
+        'Symfony\\Component\\Translation\\' =>
         array (
             0 => __DIR__ . '/..' . '/symfony/translation',
         ),
-        'Stevenmaguire\\OAuth2\\Client\\' => 
+        'Stevenmaguire\\OAuth2\\Client\\' =>
         array (
             0 => __DIR__ . '/..' . '/stevenmaguire/oauth2-keycloak/src',
         ),
-        'RobThree\\Auth\\' => 
+        'RobThree\\Auth\\' =>
         array (
             0 => __DIR__ . '/..' . '/robthree/twofactorauth/lib',
         ),
-        'Psr\\SimpleCache\\' => 
+        'Psr\\SimpleCache\\' =>
         array (
             0 => __DIR__ . '/..' . '/psr/simple-cache/src',
         ),
-        'Psr\\Log\\' => 
+        'Psr\\Log\\' =>
         array (
             0 => __DIR__ . '/..' . '/psr/log/src',
         ),
-        'Psr\\Http\\Message\\' => 
+        'Psr\\Http\\Message\\' =>
         array (
             0 => __DIR__ . '/..' . '/psr/http-factory/src',
             1 => __DIR__ . '/..' . '/psr/http-message/src',
         ),
-        'Psr\\Http\\Client\\' => 
+        'Psr\\Http\\Client\\' =>
         array (
             0 => __DIR__ . '/..' . '/psr/http-client/src',
         ),
-        'Psr\\Container\\' => 
+        'Psr\\Container\\' =>
         array (
             0 => __DIR__ . '/..' . '/psr/container/src',
         ),
-        'Psr\\Clock\\' => 
+        'Psr\\Clock\\' =>
         array (
             0 => __DIR__ . '/..' . '/psr/clock/src',
         ),
-        'PhpMimeMailParser\\' => 
+        'PhpMimeMailParser\\' =>
         array (
             0 => __DIR__ . '/..' . '/php-mime-mail-parser/php-mime-mail-parser/src',
         ),
-        'PHPMailer\\PHPMailer\\' => 
+        'PHPMailer\\PHPMailer\\' =>
         array (
             0 => __DIR__ . '/..' . '/phpmailer/phpmailer/src',
         ),
-        'MatthiasMullie\\PathConverter\\' => 
+        'MatthiasMullie\\PathConverter\\' =>
         array (
             0 => __DIR__ . '/..' . '/matthiasmullie/path-converter/src',
         ),
-        'MatthiasMullie\\Minify\\' => 
+        'MatthiasMullie\\Minify\\' =>
         array (
             0 => __DIR__ . '/..' . '/matthiasmullie/minify/src',
         ),
-        'League\\OAuth2\\Client\\' => 
+        'League\\OAuth2\\Client\\' =>
         array (
             0 => __DIR__ . '/..' . '/league/oauth2-client/src',
         ),
-        'LdapRecord\\' => 
+        'LdapRecord\\' =>
         array (
             0 => __DIR__ . '/..' . '/directorytree/ldaprecord/src',
         ),
-        'Illuminate\\Support\\' => 
+        'Illuminate\\Support\\' =>
         array (
             0 => __DIR__ . '/..' . '/illuminate/collections',
             1 => __DIR__ . '/..' . '/illuminate/macroable',
             2 => __DIR__ . '/..' . '/illuminate/conditionable',
         ),
-        'Illuminate\\Contracts\\' => 
+        'Illuminate\\Contracts\\' =>
         array (
             0 => __DIR__ . '/..' . '/illuminate/contracts',
         ),
-        'Html2Text\\' => 
+        'Html2Text\\' =>
         array (
             0 => __DIR__ . '/..' . '/soundasleep/html2text/src',
         ),
-        'GuzzleHttp\\Psr7\\' => 
+        'GuzzleHttp\\Psr7\\' =>
         array (
             0 => __DIR__ . '/..' . '/guzzlehttp/psr7/src',
         ),
-        'GuzzleHttp\\Promise\\' => 
+        'GuzzleHttp\\Promise\\' =>
         array (
             0 => __DIR__ . '/..' . '/guzzlehttp/promises/src',
         ),
-        'GuzzleHttp\\' => 
+        'GuzzleHttp\\' =>
         array (
             0 => __DIR__ . '/..' . '/guzzlehttp/guzzle/src',
         ),
-        'Firebase\\JWT\\' => 
+        'Firebase\\JWT\\' =>
         array (
             0 => __DIR__ . '/..' . '/firebase/php-jwt/src',
         ),
-        'Ddeboer\\Imap\\' => 
-        array (
-            0 => __DIR__ . '/..' . '/ddeboer/imap/src',
-        ),
-        'DASPRiD\\Enum\\' => 
+        'DASPRiD\\Enum\\' =>
         array (
             0 => __DIR__ . '/..' . '/dasprid/enum/src',
         ),
-        'Carbon\\Doctrine\\' => 
+        'Carbon\\Doctrine\\' =>
         array (
             0 => __DIR__ . '/..' . '/carbonphp/carbon-doctrine-types/src/Carbon/Doctrine',
         ),
-        'Carbon\\' => 
+        'Carbon\\' =>
         array (
             0 => __DIR__ . '/..' . '/nesbot/carbon/src/Carbon',
         ),
-        'BaconQrCode\\' => 
+        'BaconQrCode\\' =>
         array (
             0 => __DIR__ . '/..' . '/bacon/bacon-qr-code/src',
         ),
     );
 
     public static $prefixesPsr0 = array (
-        'O' => 
+        'O' =>
         array (
-            'OAuth2' => 
+            'OAuth2' =>
             array (
                 0 => __DIR__ . '/..' . '/bshaffer/oauth2-server-php/src',
             ),

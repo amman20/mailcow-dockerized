@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => '__root__',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => '1b061975292b80ad7d36f7fe91764e512f5d1dae',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         '__root__' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '1b061975292b80ad7d36f7fe91764e512f5d1dae',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
@@ -52,15 +52,6 @@
             'reference' => 'b5874fa9ed0043116c72162ec7f4fb50e02e7cce',
             'type' => 'library',
             'install_path' => __DIR__ . '/../dasprid/enum',
-            'aliases' => array(),
-            'dev_requirement' => false,
-        ),
-        'ddeboer/imap' => array(
-            'pretty_version' => '1.13.1',
-            'version' => '1.13.1.0',
-            'reference' => '8b772d04b1deadb5df13782fb78c4b648f77496e',
-            'type' => 'library',
-            'install_path' => __DIR__ . '/../ddeboer/imap',
             'aliases' => array(),
             'dev_requirement' => false,
         ),
